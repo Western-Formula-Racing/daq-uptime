@@ -4,12 +4,20 @@ repo: daq-uptime
 sites:
   - name: Data Downloader API
     url: https://api.westernformularacing.org/api/health
+    headers:
+      - "X-WFR-Status-Token: $UPTIME_MONITOR_TOKEN"
   - name: TimescaleDB
     url: https://api.westernformularacing.org/api/health-status
+    headers:
+      - "X-WFR-Status-Token: $UPTIME_MONITOR_TOKEN"
   - name: Data Uploader
     url: https://uploader.westernformularacing.org/health
+    headers:
+      - "X-WFR-Status-Token: $UPTIME_MONITOR_TOKEN"
   - name: Code-Server
     url: https://vscode.westernformularacing.org/
+    headers:
+      - "X-WFR-Status-Token: $UPTIME_MONITOR_TOKEN"
 
 status-website:
   baseUrl: /daq-uptime
@@ -22,6 +30,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications (Slack/Discord)
-# To enable, add secrets to your repository settings as per Upptime docs.
