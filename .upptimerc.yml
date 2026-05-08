@@ -3,21 +3,15 @@ repo: daq-uptime
 
 sites:
   - name: Data Downloader API
-    url: https://api.westernformularacing.org/api/health
-    headers:
-      - "X-WFR-Status-Token: $UPTIME_MONITOR_TOKEN"
+    url: https://wfr-daq-monitor.westernformularacing.workers.dev/health
   - name: TimescaleDB
-    url: https://api.westernformularacing.org/api/health-status
-    headers:
-      - "X-WFR-Status-Token: $UPTIME_MONITOR_TOKEN"
+    url: https://wfr-daq-monitor.westernformularacing.workers.dev/health-status
   - name: Data Uploader
     url: https://uploader.westernformularacing.org/health
     headers:
       - "X-WFR-Status-Token: $UPTIME_MONITOR_TOKEN"
   - name: Code-Server
     url: https://vscode.westernformularacing.org/
-    headers:
-      - "X-WFR-Status-Token: $UPTIME_MONITOR_TOKEN"
 
 status-website:
   baseUrl: /daq-uptime
