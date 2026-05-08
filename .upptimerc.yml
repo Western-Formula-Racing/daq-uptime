@@ -8,6 +8,8 @@ sites:
     url: https://wfr-daq-monitor.westernformularacing.workers.dev/code-server-health
   - name: Data Uploader
     url: https://wfr-daq-monitor.westernformularacing.workers.dev/uploader-health
+  - name: TimescaleDB
+    url: https://wfr-daq-monitor.westernformularacing.workers.dev/timescale-health
 
 status-website:
   baseUrl: /daq-uptime
