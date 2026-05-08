@@ -52,5 +52,23 @@
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "TimescaleDB",
+    "url": "https://wfr-daq-monitor.westernformularacing.workers.dev/timescale-health",
+    "icon": "https://icons.duckduckgo.com/ip3/wfr-daq-monitor.westernformularacing.workers.dev.ico",
+    "slug": "timescale-db",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 386,
+    "timeDay": 386,
+    "timeWeek": 386,
+    "timeMonth": 386,
+    "timeYear": 386,
+    "dailyMinutesDown": {}
   }
 ]
