@@ -1,7 +1,7 @@
 url: https://wfr-daq-monitor.westernformularacing.workers.dev/timescale-health
-status: up
-code: 200
-responseTime: 456
-lastUpdated: 2026-05-13T00:07:26.368Z
+status: down
+code: 404
+responseTime: 79
+lastUpdated: 2026-05-13T00:11:36.102Z
 startTime: 2026-04-12T23:54:02.710Z
 generator: Upptime <https://github.com/upptime/upptime>
