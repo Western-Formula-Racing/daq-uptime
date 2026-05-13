@@ -1,7 +1,7 @@
 url: https://wfr-daq-monitor.westernformularacing.workers.dev/code-server-health
-status: down
-code: 503
-responseTime: 19541
-lastUpdated: 2026-05-12T01:22:53.750Z
+status: up
+code: 200
+responseTime: 153
+lastUpdated: 2026-05-13T00:07:25.336Z
 startTime: 2026-04-12T23:54:05.838Z
 generator: Upptime <https://github.com/upptime/upptime>
