@@ -5,19 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wfr-daq-monitor.westernformularacing.workers.dev.ico",
     "slug": "data-downloader-api",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "99.52%",
-    "time": 862,
-    "timeDay": 177,
-    "timeWeek": 255,
-    "timeMonth": 1057,
-    "timeYear": 862,
+    "uptimeYear": "99.56%",
+    "time": 854,
+    "timeDay": 251,
+    "timeWeek": 240,
+    "timeMonth": 1179,
+    "timeYear": 854,
     "dailyMinutesDown": {
-      "2026-06-02": 238,
-      "2026-05-12": 209
+      "2026-05-12": 209,
+      "2026-06-02": 238
     }
   },
   {
@@ -26,19 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wfr-daq-monitor.westernformularacing.workers.dev.ico",
     "slug": "code-server",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "99.53%",
-    "time": 656,
-    "timeDay": 46,
-    "timeWeek": 101,
-    "timeMonth": 675,
-    "timeYear": 656,
+    "uptimeYear": "99.56%",
+    "time": 650,
+    "timeDay": 205,
+    "timeWeek": 125,
+    "timeMonth": 763,
+    "timeYear": 650,
     "dailyMinutesDown": {
-      "2026-06-02": 237,
-      "2026-05-12": 208
+      "2026-05-12": 208,
+      "2026-06-02": 237
     }
   },
   {
@@ -47,19 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wfr-daq-monitor.westernformularacing.workers.dev.ico",
     "slug": "data-uploader",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "99.53%",
-    "time": 696,
-    "timeDay": 90,
-    "timeWeek": 250,
-    "timeMonth": 745,
-    "timeYear": 696,
+    "uptimeYear": "99.56%",
+    "time": 690,
+    "timeDay": 241,
+    "timeWeek": 166,
+    "timeMonth": 839,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2026-06-02": 236,
-      "2026-05-12": 207
+      "2026-05-12": 207,
+      "2026-06-02": 236
     }
   },
   {
@@ -68,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wfr-daq-monitor.westernformularacing.workers.dev.ico",
     "slug": "timescale-db",
     "status": "up",
-    "uptime": "77.83%",
+    "uptime": "79.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.74%",
-    "uptimeYear": "77.83%",
-    "time": 883,
-    "timeDay": 1283,
-    "timeWeek": 1351,
-    "timeMonth": 1232,
-    "timeYear": 883,
+    "uptimeMonth": "83.22%",
+    "uptimeYear": "79.41%",
+    "time": 890,
+    "timeDay": 1413,
+    "timeWeek": 1403,
+    "timeMonth": 1432,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2026-06-02": 235,
+      "2026-05-12": 206,
       "2026-05-27": 233,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
@@ -95,7 +95,7 @@
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1428,
-      "2026-05-12": 206
+      "2026-06-02": 235
     }
   }
 ]
